@@ -16,12 +16,6 @@ A collection of security-by-design architecture blueprints for banking, OT/BMS, 
 - Cloud-native Applications  
 - Fintech  
 
-**Usage:**  
-1. Browse diagrams in `diagrams/` for visual reference.  
-2. Use `terraform-modules/` to deploy secure infrastructure.  
-3. Refer to `policies/` for recommended governance.  
-4. Check `examples/` for deployment demos.  
-
 **Contributing:**  
 - Pull requests for new diagrams, Terraform modules, or policies welcome.  
 - Follow naming conventions and sector-specific guidelines.  
